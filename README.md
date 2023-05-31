@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5E21CD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+My+name+is+Lucas+Sell+Machado;I'm+22+years+old;🌎+I'm+based+in+Santa+Catarina,+Brazil;I+Graduated+Systems+Development+Analyst+👨‍🎓;Passionate+about+Front-End+👨‍💻;Be+Welcome!+😀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+👋,+Me+chamo+Lucas+Sell+Machado;Tenho+23+anos;🌎+Estou+morando+em+Santa+Catarina,+Brasil;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas+👨‍🎓;Apaixonado+em+Front-End+👨‍💻;Seja+Bem-vindo!+😀)](https://git.io/typing-svg)
 
 [![Sellucas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sellucas&bg_color=0d1117&color=FAF900&line=FAF900&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
