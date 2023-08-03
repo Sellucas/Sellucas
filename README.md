@@ -19,7 +19,6 @@ Com experiência acadêmica e em projetos pessoais, desenvolvi habilidades para 
 ![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MUI](https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Back-End:
 ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
