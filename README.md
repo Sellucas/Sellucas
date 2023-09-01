@@ -29,6 +29,7 @@ Com experiência acadêmica e em projetos pessoais, desenvolvi habilidades para 
 ### Database:
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## 📩 Entre em Contato
 <div align="center"> 
