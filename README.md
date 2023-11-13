@@ -1,16 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5E21CD&height=120&section=header"/>
 
-# Olá, me chamo Lucas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, my name is Lucas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Com experiência acadêmica e em projetos pessoais, desenvolvi habilidades para resolver problemas de forma eficaz e enfrentar desafios com confiança. Meu objetivo é criar aplicativos web escaláveis, amigáveis ​​ao usuário e seguros.
+With a solid academic foundation and experience in various personal projects, I have acquired skills in effective problem-solving and a confident approach to challenges. My goal is to create web applications that stand out for their scalability, user-friendly usability, and security. I am continually enhancing my skill set to stay ahead of the latest market trends and technologies in web development.
 
-*“I have not failed. I’ve just found 10,000 ways that won’t work.” – Thomas Edison.*
+👷‍♂️ I love exploring new technologies and applying them to create cool projects. <br>
+📚 My focus is on deepening my knowledge in **TypeScript, Node.js, and Cypress**. <br>
+👨‍💻 Dev addicted about performance, ready for whatever comes my way.
 
-👷‍♂️ Adoro explorar tecnologias novas e aplicá-las na criação de projetos legais.<br>
-📚 Meu foco está em aprofundar meus conhecimentos em **TypeScript, Node.js e Cypress.**<br>
-👨‍💻 Desenvolvedor apaixonado por aprimoramento, à sua disposição.
-
-## 🛠 Tecnologias & Ferramentas
+## 🛠 Technologies & Tools
 
 ### Front-End:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -31,7 +29,7 @@ Com experiência acadêmica e em projetos pessoais, desenvolvi habilidades para 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## 📩 Entre em Contato
+## 📩 Get in Touch
 <div align="center"> 
 <a href="https://twitter.com/sellucas1" target="_blank"><img src="https://img.shields.io/badge/Twitter-4169E1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:cmp.1a.lucassellmachado@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
