@@ -36,7 +36,7 @@ I have experience with Frontend and Backend programming. My main knowledge in te
 
 <div>
     <div align="right" style="margin:auto">
-        <a href="https://wakatime.com/@vcwild">
+        <a href="https://wakatime.com/@Sellucas">
             <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sellucas&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
                  alt="Wakatime stats" align="right" />
         </a>
