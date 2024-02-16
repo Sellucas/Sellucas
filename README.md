@@ -32,7 +32,7 @@ Hey there!! I am Lucas <img class=" lazyloaded" src="https://raw.githubuserconte
 
 I see myself as someone on a lifelong learning journey, continually seeking to expand my knowledge. My goal is to develop scalable, easy-to-use and secure applications.
 
-I have experience with Frontend and Backend programming. My main knowledge in technologies are **Javascript**, **React**, **Next.js**, **Node.js**, **GIT**. I am also comfortable using **Typescript**, **Electron**, and **Software Testing**.
+I have experience with Frontend and Backend programming. My main knowledge in technologies are **Javascript**, **React**, **Next.js**, **Node.js**, **GIT**. I am also comfortable using **Typescript** and **Software Testing**.
 
 <div>
     <div align="right" style="margin:auto">
@@ -42,7 +42,7 @@ I have experience with Frontend and Backend programming. My main knowledge in te
         </a>
     </div>
 
-My main abilities include developing responsive and interactive user interfaces, desktop applications with cross-platform compatibility and applying software testing methodologies.
+My main abilities include developing responsive and interactive user interfaces, scalable apps and software testing methodologies.
 
 I am currently working on [Loading...](https://github.com/Sellucas)
 
