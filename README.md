@@ -1,7 +1,7 @@
 <h1 align="center"> Lucas Sell Machado </h1>
     
 <div align="center">
-<b>Fullstack Software Engineer | Constantly learning | Driven | 🚀💻📚🔧👨‍💻🌱</b>
+<b>Fullstack Developer | Constantly learning | Driven | 🚀💻📚🔧👨‍💻🌱</b>
 <br>
 <br>
 
