@@ -32,7 +32,7 @@ Hey there!! I am Lucas <img class=" lazyloaded" src="https://raw.githubuserconte
 
 I see myself as someone on a lifelong learning journey, continually seeking to expand my knowledge. My goal is to develop scalable, easy-to-use and secure applications.
 
-I have experience with Frontend and Backend programming. My main knowledge in technologies are **Javascript**, **React**, **Next.js**, **Node.js**, **GIT**. I am also comfortable using **Typescript** and **Software Testing**.
+I have experience with Frontend and Backend programming. My main knowledge in technologies are **Javascript** & **Typescript**, **React**, **Next.js**, **Node.js**, **GIT** and **Software Testing**. I am also comfortable **Cloud Development** and **Golang**.
 
 <div>
     <div align="right" style="margin:auto">
