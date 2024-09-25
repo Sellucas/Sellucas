@@ -32,7 +32,7 @@ Hey there!! I am Lucas <img class=" lazyloaded" src="https://raw.githubuserconte
 
 I see myself as someone on a lifelong learning journey, continually seeking to expand my knowledge. My goal is to develop scalable, easy-to-use and secure applications.
 
-I have experience with Frontend and Backend programming. My main knowledge in technologies are **Javascript** & **Typescript**, **React**, **Next.js**, **Node.js**, **GIT** and **Software Testing**. I am also comfortable with **Cloud Development** and **Golang**.
+I have experience with Frontend and Backend programming. My main knowledge in technologies are **Javascript** & **Typescript**, **React**, **Next.js**, **Node.js**, **SQL**, **TailwindCSS** and **Software Testing**. I am also comfortable with **Cloud Development** and **Golang**.
 
 <div>
     <div align="right" style="margin:auto">
@@ -44,7 +44,7 @@ I have experience with Frontend and Backend programming. My main knowledge in te
 
 My main abilities include developing responsive and interactive user interfaces, scalable apps and software testing methodologies.
 
-I am currently working on [Prodify](https://github.com/Sellucas/prodify)
+I am currently working on [...](https://github.com/Sellucas)
 
 </div>
 </details>
